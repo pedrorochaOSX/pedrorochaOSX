@@ -2,4 +2,4 @@
 
 **Software enginner.**
 
-Passionate for technology and solving problems with **web** and **mobile** applications.
+Passionate about technology and solving problems with **web** and **mobile** applications.
