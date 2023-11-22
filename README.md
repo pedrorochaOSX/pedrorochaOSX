@@ -2,4 +2,4 @@
 
 ### Software engineer
 
-Passionate about technology and building creative web and mobile apps.
+Passionate about designing, developing and building creative Web and Mobile apps.
