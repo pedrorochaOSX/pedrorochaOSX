@@ -8,7 +8,7 @@
     <p>Passionate about designing, developing and building creative Web and Mobile apps.</p>
 <div align="left">
     <h3>Favorite tools:</h3>
-    <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter"></a>
+    <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" target="_blank></a>
     <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"></a>
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" target="_blank" style="text-decoration: none;"></a>
     <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase"></a>
