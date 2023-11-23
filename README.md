@@ -6,7 +6,7 @@
 </div>
 <p>Passionate about designing, developing and building creative Web and Mobile apps.</p>
 <div align="left">
-    <h3>Favorite tools:</h3>
+    <h3>Some tools I'm using in my projects:</h3>
     <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter"></a>
     <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"></a>
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin"></a>
@@ -20,6 +20,6 @@
 </div>
 <p>
     <div align="left">
-        <a href=https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrorochaosx&theme=github_dark" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrorochaosx&theme=github_dark"></a>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrorochaosx&theme=github_dark" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrorochaosx&theme=github_dark"></a>
     </div>
 </p>    
