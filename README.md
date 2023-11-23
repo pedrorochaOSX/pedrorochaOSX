@@ -1,8 +1,9 @@
 <div align="left">
-<h1>Pedro Rocha
-    <a href="https://www.linkedin.com/in/pedro-m-rocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href = "mailto:pedromrochas@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</h1>   
+    <h1>
+        Pedro Rocha
+        <a href="https://www.linkedin.com/in/pedro-m-rocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?&style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+        <a href = "mailto:pedromrochas@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+    </h1>   
 </div>
 <p>Passionate about designing, developing and building creative Web and Mobile apps.</p>
 <div align="left">
